@@ -10,6 +10,6 @@
 
 <!-- If this PR is related to any other PR or resolves any issue or related to any issue link all related PR and issues here. -->
 
-### Have you read the [Contributing Guidelines on issues](url)?
+### Have you read the [Contributing Guidelines](url)?
 
 <!-- Write your answer here. -->
