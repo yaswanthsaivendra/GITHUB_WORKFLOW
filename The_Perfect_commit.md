@@ -28,8 +28,9 @@ Let's see how to do the first commit:
 
 ```
 git add fileA
-git add -p fileB    (Here, p stands for patch level)
+git add -p fileB    
 ```
+`(Here, p stands for patch level)`
 This -p option allows us to select which chunks of code we want to add from the fileB.<br>
 In the same way we can do the second commit too.
 
